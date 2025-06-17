@@ -1,1 +1,0 @@
-// Arduino Ethernet MQTT example
