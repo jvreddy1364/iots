@@ -1,0 +1,1 @@
+module.exports = { apps: [{ name: 'iot-backend', script: 'server.js' }] };
